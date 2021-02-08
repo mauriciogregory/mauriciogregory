@@ -1,7 +1,6 @@
 ### Hi there 👋
 ####  🔭 I’m currently working on and learning.
-####  🤔 I’m looking for help with Javascript.
-https://simpleicons.org/icons/javascript.svg
+
 
 ### Thanks!!!! :)
 
