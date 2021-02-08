@@ -1,6 +1,15 @@
-### Hi there 👋
-####  🔭 I’m currently working on and learning.
 
+### Hi there 👋
+
+## Welcome!
+
+### I'm Mauricio Gregory
+
+####  🔭 I’m currently working on and learning.
+[![Github Badge](https://img.shields.io/badge/Javascript----yellowgreen)](#)
+[![Github Badge](https://img.shields.io/badge/Java-%2B-red)](#)
+[![Github Badge](https://img.shields.io/badge/Css-%2B-green)](#)
+[![Github Badge](https://img.shields.io/badge/Html-%2B-orange)](#)
 
 ### Thanks!!!! :)
 
