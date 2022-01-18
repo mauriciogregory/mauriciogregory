@@ -14,7 +14,7 @@
 ### Thanks!!!!
 <div>
   <a href="">
-  [![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciogregory)](https://github.com/mauriciogregory/github-readme-stats)
+  [![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciogregory&hide=contribs,prs)](https://github.com/mauriciogregory/github-readme-stats)
 <div>
 
 
