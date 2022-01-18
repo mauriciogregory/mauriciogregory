@@ -12,7 +12,11 @@
 [![Github Badge](https://img.shields.io/badge/Html-%2B-orange)](#)
 
 ### Thanks!!!!
-
+<div>
+  <a href="">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciogregory)]
+  (https://github.com/mauriciogregory/github-readme-stats)
+<div>
 
 
 <!--
@@ -28,4 +32,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
