@@ -15,6 +15,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mauriciogregory&show_icons=true&theme=dark&include_all_commits=true&count_private=true/">
 </div>
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciogregory&layout=demo&count_private=true">
+</div>
+
 ### Thanks!!!!
 <div>
   <a href="">
