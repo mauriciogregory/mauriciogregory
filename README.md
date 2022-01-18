@@ -10,11 +10,12 @@
 [![Github Badge](https://img.shields.io/badge/Java-%2B-red)](#)
 [![Github Badge](https://img.shields.io/badge/Css-%2B-green)](#)
 [![Github Badge](https://img.shields.io/badge/Html-%2B-orange)](#)
+[![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciogregory&hide=contribs,prs)](https://github.com/mauriciogregory/github-readme-stats)
 
 ### Thanks!!!!
 <div>
   <a href="">
-  [![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciogregory&hide=contribs,prs)](https://github.com/mauriciogregory/github-readme-stats)
+
 <div>
 
 
