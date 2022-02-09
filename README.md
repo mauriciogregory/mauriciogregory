@@ -19,11 +19,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciogregory&layout=demo&langs_count=12&theme=dark&count_private=true/">
 </div>
 
-### Thanks!!!!
 <div>
   <a href="">
 </div>
-
 
 <!--
 **mauriciogregory/mauriciogregory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,11 +41,11 @@ Here are some ideas to get you started:
   
  <h3 align="center">I'm a beginner frontend developer.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<!--   <h3 align="left">Connect with me:</h3>
+  <p align="left">
+  </p> -->
 
-<h3 align="left">Languages and Tools I'm actually learning:</h3>
+<h3 align="left">I'm actually learning this languages and tools :</h3>
   
 <p align="left"> 
   
@@ -86,3 +84,5 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   </p>
+
+  ### Thanks!!!!
