@@ -1,7 +1,7 @@
 
 ### Hi there
 
-## Welcome!
+### Welcome!
 
 ### I'm Mauricio Gregory
 
