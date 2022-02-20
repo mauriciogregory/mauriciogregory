@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 
 -->
   
- <h3 align="center">I'm a beginner frontend developer.</h3>
+ <h3 align="left">I'm a beginner frontend developer.</h3>
 
 <!--   <h3 align="left">Connect with me:</h3>
   <p align="left">
   </p> -->
 
-<h3 align="left">I'm actually learning this languages and tools :</h3>
+<h4 align="left">I'm actually learning this languages and tools :</h4>
   
 <p align="left"> 
   
