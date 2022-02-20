@@ -15,7 +15,7 @@
 
 <div>
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciogregory&layout=demo&langs_count=12&theme=dark&count_private=true/"> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciogregory&theme=tokyonight)]
+[![Top Langs]](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciogregory&theme=tokyonight)
 
 </div>
 
