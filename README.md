@@ -9,13 +9,12 @@
 [![Github Badge](https://img.shields.io/badge/Java-%2B-red)](#)
 [![Github Badge](https://img.shields.io/badge/Css-%2B-green)](#)
 [![Github Badge](https://img.shields.io/badge/Html-%2B-orange)](#) -->
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=mauriciogregory&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true/">
+<div >
+ <img src="https://github-readme-stats.vercel.app/api?username=mauriciogregory&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true/">
 </div>
-
-<div>
+<div style="block">
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciogregory&layout=demo&langs_count=12&theme=dark&count_private=true/"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciogregory&theme=tokyonight&count_private=true&langs_count=8/">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciogregory&theme=tokyonight&count_private=true&langs_count=8/">
 </div>
 
 <div>
