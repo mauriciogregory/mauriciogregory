@@ -10,7 +10,7 @@
 [![Github Badge](https://img.shields.io/badge/Css-%2B-green)](#)
 [![Github Badge](https://img.shields.io/badge/Html-%2B-orange)](#) -->
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=mauriciogregory&show_icons=true&theme=dark&include_all_commits=true&count_private=true/">
+<img src="https://github-readme-stats.vercel.app/api?username=mauriciogregory&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true/">
 </div>
 
 <div>
