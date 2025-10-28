@@ -3,45 +3,28 @@
 
 ### I'm Mauricio Gregory
 
-<!-- ####  🔭 I’m currently working on and learning. -->
-
-<!-- [![Github Badge](https://img.shields.io/badge/Javascript----yellowgreen)](#)
+[![Github Badge](https://img.shields.io/badge/Javascript----yellowgreen)](#)
 [![Github Badge](https://img.shields.io/badge/Java-%2B-red)](#)
 [![Github Badge](https://img.shields.io/badge/Css-%2B-green)](#)
-[![Github Badge](https://img.shields.io/badge/Html-%2B-orange)](#) -->
+[![Github Badge](https://img.shields.io/badge/Html-%2B-orange)](#)
+
 <div >
- <img src="https://github-readme-stats.vercel.app/api?username=mauriciogregory&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+ <img src="https://github-readme-stats.vercel.app/api?username=mauriciogregory&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
 </div>
+
+<div style="block" >
+ <img src="https://streak-stats.demolab.com?user=mauriciogregory&theme=tokyonight&short_numbers=true" alt="GitHub Streak">
+</div>
+
 <div style="block">
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciogregory&layout=demo&langs_count=12&theme=dark&count_private=true/"> -->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciogregory&theme=tokyonight&langs_count=6&count_private=true">
 </div>
 
 <div>
   <a href="">
 </div>
-
-<!--
-**mauriciogregory/mauriciogregory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
   
  <h3 align="left">I'm a beginner frontend developer.</h3>
-
-<!--   <h3 align="left">Connect with me:</h3>
-  <p align="left">
-  </p> -->
 
 <h4 align="left">I'm actually learning this languages and tools :</h4>
   
