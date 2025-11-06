@@ -3,11 +3,13 @@
 
 ### I'm Mauricio Gregory
 
-[![Github Badge](https://img.shields.io/badge/Javascript----yellowgreen)](#)
+[![Github Badge](https://img.shields.io/badge/Javascript-%2B-yellowgreen)](#)
 [![Github Badge](https://img.shields.io/badge/Java-%2B-red)](#)
 [![Github Badge](https://img.shields.io/badge/Css-%2B-green)](#)
 [![Github Badge](https://img.shields.io/badge/Html-%2B-orange)](#)
-
+[![Github Badge](https://img.shields.io/badge/Dart-%2B-blue)](#)
+[![Github Badge](https://img.shields.io/badge/Go----ligthblue)](#)
+[![Github Badge](https://img.shields.io/badge/Flutter----blue)](#)
 <div >
  <img src="https://github-readme-stats.vercel.app/api?username=mauriciogregory&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
 </div>
@@ -24,15 +26,18 @@
   <a href="">
 </div>
   
- <h3 align="left">I'm a beginner frontend developer.</h3>
+ <h3 align="left">I'm a Web Developer.</h3>
 
-<h4 align="left">I'm actually learning this languages and tools :</h4>
+<h4 align="left">I work with this languages and tools :</h4>
   
+ 
+  <table>
 <p align="left"> 
-  
+   <tr>    
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
+   </tr>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -65,5 +70,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   </p>
+   
+  </table>
+
 
   ### Thanks!!!!
